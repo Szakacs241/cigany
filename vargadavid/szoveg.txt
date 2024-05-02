@@ -1,0 +1,21 @@
+hardware/software
+- hardware - mouse, keyboard, monitor (input-output)
+- software - operating system, near system programs
+- operating systems (windows, linux)
+
+file management
+
+office programs
+- spreadsheet editors
+- presentation programs
+- database management systems
+- audio managers
+- photo editors
+
+browsers
+
+programming languages
+
+networking
+
+cyber security

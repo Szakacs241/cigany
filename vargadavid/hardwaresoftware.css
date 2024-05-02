@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+    color: black;
+}
+li{
+    list-style-type: circle;
+}
+.hardwaresoftware{
+    background-color: black;
+    color: bisque;
+    height: 500px;
+    width: 250px;
+    padding: 20px;
+}
+.options{
+    text-align: center;
+    font-family: fantasy;
+    font-weight: 200;
+}
