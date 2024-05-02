@@ -1,0 +1,25 @@
+Hardware: Physical components of a computer system, such as mouse, 
+keyboard, and monitor, used for input and output.
+
+Software: Programs and instructions that tell the hardware what to do.
+Includes operating systems like Windows and Linux, as well as applications.
+
+File Management: Organizing, storing, and accessing files on a computer system.
+
+Office Programs: Software tools for office tasks, including spreadsheet editors 
+(like Microsoft Excel), presentation programs (like Microsoft PowerPoint), 
+database management systems (like Microsoft Access), 
+audio managers, and photo editors (like Adobe Photoshop).
+
+Browsers: Software applications for accessing and navigating the internet, 
+like Google Chrome, Mozilla Firefox, and Microsoft Edge.
+
+Programming Languages: Tools for creating software and applications. 
+Examples include Python, Java, JavaScript, C++, and many more.
+
+Networking: The practice of connecting computers and other devices to share resources and information. 
+Includes concepts like TCP/IP, routers, switches, and protocols like HTTP and FTP.
+
+Cyber Security: Measures taken to protect computer systems and data from 
+unauthorized access, attacks, and damage. Involves techniques like encryption, 
+firewalls, antivirus software, and intrusion detection systems.
